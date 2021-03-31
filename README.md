@@ -27,3 +27,11 @@ The most different from our version to original version is the *source* paramate
 
 ![](./assets/hw3-demo.png)
 
+## HW4
+Modify Assignment 3 to produce decimal side
+information. The decimal side information is a text file entitled "sideinfodeci.txt". This text file has 12 lines and each line represent a decimal value with four decimal places
+
++ 1-3: Mean of the *source* image in the RGB (or LAB) channel
++ 4-6: Standard deviation of the *source* image in the RGB (or LAB) channel
++ 7-9: Mean of the *target* image in the RGB (or LAB) channel
++ 10-12: Standard deviation of the *target* image in the RGB (or LAB) channel
