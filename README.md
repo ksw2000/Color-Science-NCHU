@@ -35,3 +35,13 @@ information. The decimal side information is a text file entitled "sideinfodeci.
 + 4-6: Standard deviation of the *source* image in the RGB (or LAB) channel
 + 7-9: Mean of the *target* image in the RGB (or LAB) channel
 + 10-12: Standard deviation of the *target* image in the RGB (or LAB) channel
+
+## HW5
+Write a code to implement the reverse color transfer
+
++ input: the result image in HW3 and *sideinfodeci.txt* in HW4
+    + soruce file: sou1.png
+    + target file: tar1.png
+    + color transfer file: utl1.png
+    + side info: sideinfodeci.txt
++ output: recovered image *yrcsou.png*
