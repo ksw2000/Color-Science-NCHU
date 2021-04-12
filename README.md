@@ -45,3 +45,10 @@ Write a code to implement the reverse color transfer
     + color transfer file: utl1.png
     + side info: sideinfodeci.txt
 + output: recovered image *yrcsou.png*
+
+## HW6
+
+Proof an equation
+
+![](./assets/hw6-equation.png)
+
