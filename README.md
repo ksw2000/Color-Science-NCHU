@@ -52,3 +52,8 @@ Proof an equation
 
 ![](./assets/hw6-equation.png)
 
+## HW7
+
+**4107056019-07-Bin2Dec**: Transfer float32 binary string to number 
+
+**4107056019-07-Dec2Bin**: Transfer float32 number to binary string
