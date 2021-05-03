@@ -57,3 +57,9 @@ Proof an equation
 **4107056019-07-Bin2Dec**: Transfer float32 binary string to number 
 
 **4107056019-07-Dec2Bin**: Transfer float32 number to binary string
+
+## HW8
+
+這作業有點難說明，反正就什麼遍歷性的，求 pull request 說明一下
+
+然後那隻貓變綠綠的是正常的
