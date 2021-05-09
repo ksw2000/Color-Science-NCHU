@@ -63,3 +63,8 @@ Proof an equation
 這作業有點難說明，反正就什麼遍歷性的，求 pull request 說明一下
 
 然後那隻貓變綠綠的是正常的
+
+
+## HW9
+
+Logistic map
